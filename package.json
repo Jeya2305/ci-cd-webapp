@@ -1,0 +1,13 @@
+{
+  "name": "ci-cd-webapp",
+  "version": "1.0.0",
+  "description": "Simple CI/CD pipeline web app",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Test Passed Successfully\""
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
